@@ -15,6 +15,6 @@ function logWhisper(string) {
 }
 
 
-function sayHitoGrandma(`string`) {if (`string` === "I love you, Grandma.")
+function sayHitoGrandma("word") {if ("word" === "I love you, Grandma.")
 {return "I love you, too."}
 }
